@@ -9,9 +9,12 @@ This is a repository to share data analytics projects, showcase skills, and trac
 * [About](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#About)
 * [My Projects](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#My-Projects)
   * R
+    * [Bellabeat Case Study](#bellabeat-case-study)
+    * [Medical Insurance Costs](#Medical-Insurance-Cost-Prediction)
   * SQL
+    * [Sephora Trends](#Sephora-Product-Trends-Analysis)
   * Excel / Google Sheets
-  * Tableau
+  * Tableau: View on Tableau [here](https://public.tableau.com/app/profile/su.zheng/vizzes)
 * [Education](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#Education)
 * [Certificates](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#Certificates)
 * [Contacts](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#Contacts)
@@ -26,7 +29,7 @@ This is a repository to share data analytics projects, showcase skills, and trac
 
 - Goal:
 - Tools: R, ggplot2
-- Skills:** Exploratory data analysis, trend discovery
+- Skills: Exploratory data analysis, trend discovery
 
 **Results:**
 

@@ -10,7 +10,7 @@ This is a repository to share data analytics projects, showcase skills, and trac
 * [My Projects](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#My-Projects)
   * R
     * [Bellabeat Case Study](#bellabeat-case-study)
-    * [Medical Insurance Costs](#Medical-Insurance-Cost-Prediction)
+    * [Medical Insurance Costs](#Medical-Insurance-Costs-Prediction)
   * SQL
     * [Sephora Trends](#Sephora-Product-Trends-Analysis)
   * Excel / Google Sheets
@@ -34,9 +34,9 @@ This is a repository to share data analytics projects, showcase skills, and trac
 **Results:**
 
 
-### 📊 Medical Insurance Cost Prediction
+### 📊 Medical Insurance Costs Prediction
 
-**Code:** [View on GitHub](https://github.com/ssz-19/medical-costs-model)
+**Code:** [View on GitHub](https://github.com/ssz-19/insurance-model)
 
 **Description:**
 

@@ -1,7 +1,11 @@
 # Su Zheng - Data Analyst Portfolio
 
 ## About
-Hi, I'm Su! I have a technical background in Computer Science and Marketing. 
+Hi! I'm Su, a data analyst with a background in Computer Science and Marketing, driven by a love for cleaning chaos, uncovering insights, and bringing clarity to complex data. I thrive at the intersection of technical analysis and visual storytelling—whether that’s building dashboards in Tableau or identifying patterns in SQL and R.
+
+With experience in IT logistics, cloud marketing, and product research, I bring both analytical rigor and creative perspective to every project. I especially enjoy working with data in product development, media, beauty, and tech, and I’m passionate about using data to help teams make smarter, human-centered decisions.
+
+Explore my portfolio below to see how I’ve translated data into actionable insights—from health behavior patterns to consumer sentiment analysis.
 
 This is a repository to share data analytics projects, showcase skills, and track my progress.
 

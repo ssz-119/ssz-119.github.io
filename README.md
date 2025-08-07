@@ -1,11 +1,9 @@
 # Su Zheng - Data Analyst Portfolio
 
 ## About
-Hi! I'm Su, a data analyst with a background in computer science and business administration (notably marketing), motivated by a passion for cleaning chaos, uncovering insights, and bringing clarity and simplicity to complex data. I thrive at the intersection of technical analysis and visual storytelling from evaluating statistics to building visualizations and identifying patterns. 
+Hi! I'm Su, a data analyst with a background in computer science and marketing. I'm motivated by a passion for turning chaos into clarity. I am drawn to uncovering insights, simplifying complexity, and transforming an overflow of data into meaningful stories. I thrive at the intersection of technical analysis and visual storytelling.
 
-With experience in IT logistics, cloud marketing, and product research, I bring both analytical rigor and creative perspective to every project. I hope to use my skills, knowledge, and dedication to data to help teams with a impactful mission make smarter decisions. View my resume [here]().
-
-Explore my portfolio below to see how I’ve translated data into actionable insights from health behavior patterns to consumer sentiment analysis.
+With experience in IT logistics, cloud marketing, and product research, I bring both analytical rigor and creative perspective to every project. I hope to use my skills and dedication to help teams with a impactful mission make smarter decisions. View my resume [here]().
 
 This is a repository to share data analytics projects, showcase skills, and track my progress.
 
@@ -37,7 +35,6 @@ This is a repository to share data analytics projects, showcase skills, and trac
 
 **Results:**
 
-
 ### Medical Insurance Costs Prediction
 
 **Code:** [View on GitHub](https://github.com/ssz-119/insurance-model)
@@ -64,8 +61,7 @@ This is a repository to share data analytics projects, showcase skills, and trac
 
 ## Education
 
-Northeastern University - Boston, MA:
-Bachelor of Science, Computer Science and Business Administration,
+Northeastern University - Boston, MA: Bachelor of Science, Computer Science and Business Administration,
 Concentration in Marketing
 2018 - 2022
 

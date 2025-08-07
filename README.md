@@ -1,11 +1,11 @@
 # Su Zheng - Data Analyst Portfolio
 
 ## About
-Hi! I'm Su, a data analyst with a background in Computer Science and Marketing, driven by a love for cleaning chaos, uncovering insights, and bringing clarity to complex data. I thrive at the intersection of technical analysis and visual storytelling—whether that’s building dashboards in Tableau or identifying patterns in SQL and R.
+Hi! I'm Su, a data analyst with a background in computer science and business administration (notably marketing), motivated by a passion for cleaning chaos, uncovering insights, and bringing clarity and simplicity to complex data. I thrive at the intersection of technical analysis and visual storytelling from evaluating statistics to building visualizations and identifying patterns. 
 
-With experience in IT logistics, cloud marketing, and product research, I bring both analytical rigor and creative perspective to every project. I especially enjoy working with data in product development, media, beauty, and tech, and I’m passionate about using data to help teams make smarter, human-centered decisions.
+With experience in IT logistics, cloud marketing, and product research, I bring both analytical rigor and creative perspective to every project. I hope to use my skills, knowledge, and dedication to data to help teams with a impactful mission make smarter decisions. View my resume [here]().
 
-Explore my portfolio below to see how I’ve translated data into actionable insights—from health behavior patterns to consumer sentiment analysis.
+Explore my portfolio below to see how I’ve translated data into actionable insights from health behavior patterns to consumer sentiment analysis.
 
 This is a repository to share data analytics projects, showcase skills, and track my progress.
 
@@ -14,43 +14,43 @@ This is a repository to share data analytics projects, showcase skills, and trac
 * [My Projects](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#My-Projects)
   * R
     * [Bellabeat Case Study](#bellabeat-case-study)
-    * [Medical Insurance Costs](#Medical-Insurance-Costs-Prediction)
+    * [Medical Insurance Costs](#medical-insurance-costs-prediction)
   * SQL
-    * [Sephora Trends](#Sephora-Product-Trends-Analysis)
+    * [Sephora Trends](#sephora-product-trends-analysis)
   * Excel / Google Sheets
   * Tableau: View on Tableau [here](https://public.tableau.com/app/profile/su.zheng/vizzes)
-* [Education](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#Education)
-* [Certificates](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#Certificates)
-* [Contacts](https://github.com/ssz-119/ssz-119.github.io/blob/main/README.md#Contacts)
+* [Education](#education)
+* [Certificates](#certificates)
+* [Contacts](#contacts)
 
 ## My Projects
 
-### 🩺 Bellabeat Case Study
+### Bellabeat Case Study 
 
 **Code:** [View on GitHub](https://github.com/ssz-119/bellabeat-r)
 
 **Description:**
 
-- Goal:
-- Tools: R, ggplot2
-- Skills: Exploratory data analysis, trend discovery
+- Goal: Analyze how Bellabeat, a high-tech company of health-focused smart products for women, can grow their marketing strategy by examining a competitor's smart device data.
+- Tools: R, ggplot
+- Skills: Data Cleaning and Transformation, EDA (Exploratory Data Analysis), Grouped Data Aggregation, Data Visualization
 
 **Results:**
 
 
-### 📊 Medical Insurance Costs Prediction
+### Medical Insurance Costs Prediction
 
-**Code:** [View on GitHub](https://github.com/ssz-19/insurance-model)
+**Code:** [View on GitHub](https://github.com/ssz-119/insurance-model)
 
 **Description:**
 
-- Goal:
+- Goal: Explore the demographic and health factors that influence total medical insurance costs for individuals in the United States and build regression models to predict costs, includes a supporting exploratory data visualizations and a final presentation deck with key insights.
 - Tools: R, regression modeling
-- Skills
+- Skills: Data Wrangling, Statistical Analysis, Regression Modeling
 
 **Results:**
 
-### 💄 Sephora Product Trends Analysis 
+### Sephora Product Trends Analysis 
 
 **Code:** [View on GitHub](https://github.com/ssz-19/sephora-trends)
 
@@ -71,11 +71,11 @@ Concentration in Marketing
 
 ## Certificates
 
-* Google Data Analytics Professional Certificate (August 2025) (Coursera - Google)
-* Tableau (August 2025) (Coursera - University of California, Davis)
+* **Google Data Analytics Professional Certificate** (August 2025) (Coursera - Google)
+* **Tableau** (August 2025) (Coursera - University of California, Davis)
 
 ## Contacts
 * LinkedIn: @SuZheng
-* Email: zhengssu@gmail.com
+* Email: [zhengssu@gmail.com]()
 
 

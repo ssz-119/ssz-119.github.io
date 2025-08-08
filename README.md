@@ -27,37 +27,31 @@ This is a repository to share data analytics projects, showcase skills, and trac
 
 **Code:** [View on GitHub](https://github.com/ssz-119/bellabeat-r)
 
-**Description:**
+- **Goal**: Analyze how Bellabeat, a high-tech company of health-focused smart products for women, can grow their marketing strategy by examining a competitor's smart device data.
+- **Tools**: R, ggplot
+- **Skills**: Data Cleaning and Transformation, EDA (Exploratory Data Analysis), Grouped Data Aggregation, Data Visualization
 
-- Goal: Analyze how Bellabeat, a high-tech company of health-focused smart products for women, can grow their marketing strategy by examining a competitor's smart device data.
-- Tools: R, ggplot
-- Skills: Data Cleaning and Transformation, EDA (Exploratory Data Analysis), Grouped Data Aggregation, Data Visualization
-
-**Results:**
+This analysis found that users who consistently tracked their sleep and steps were more engaged with the app, suggesting that personalized reminders could boost daily usage. These insights were shared using data visualizations in R, with recommendations aimed at improving user retention through targeted marketing strategies.
 
 ### Medical Insurance Costs Prediction
 
 **Code:** [View on GitHub](https://github.com/ssz-119/insurance-model)
 
-**Description:**
+- **Goal**: Explore the demographic and health factors that influence total medical insurance costs for individuals in the United States and build regression models to predict costs, includes a supporting exploratory data visualizations and a final presentation deck with key insights.
+- **Tools**: R, regression modeling
+- **Skills**: Data Wrangling, Statistical Analysis, Regression Modeling
 
-- Goal: Explore the demographic and health factors that influence total medical insurance costs for individuals in the United States and build regression models to predict costs, includes a supporting exploratory data visualizations and a final presentation deck with key insights.
-- Tools: R, regression modeling
-- Skills: Data Wrangling, Statistical Analysis, Regression Modeling
-
-**Results:**
+Using a linear regression model, I was able to predict individual insurance costs with approximately 80% accuracy, highlighting BMI, age, and smoking status as the most influential factors. The results were communicated with clear visuals and summary statistics to support data-driven pricing or wellness initiatives.
 
 ### Sephora Product Trends Analysis 
 
 **Code:** [View on GitHub](https://github.com/ssz-19/sephora-trends)
 
-**Description:**
+- **Goal**: Determine patterns in customer reviews and identify key attributes in popular products to understand what drives high demand to inform product and marketing strategies.
+- **Tools**: SQL, Python (pandas + matplotlib/seaborn)
+- **Skills**: Joins, Aggregates, Case, Subqueries, CTEs, Layered Analysis
 
-- Goal:
-- Tools: SQL
-- Skills: Joins, Aggregates, Case, Subqueries, CTEs, Layered Analysis
-
-**Results:**
+This project displays important statistics and trends concisely through a set of dashboards followed by recommendations to inform marketing and merchandising decisions.
 
 ## Education
 
@@ -67,7 +61,7 @@ Concentration in Marketing
 
 ## Certificates
 
-* **Google Data Analytics Professional Certificate** (August 2025) (Coursera - Google)
+* **Google Data Analytics Professional Certificate** (July 2025) (Coursera - Google)
 * **Tableau** (August 2025) (Coursera - University of California, Davis)
 
 ## Contacts

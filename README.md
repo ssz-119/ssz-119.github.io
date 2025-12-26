@@ -16,7 +16,9 @@ This is a repository to share data analytics projects, showcase skills, and trac
   * SQL
     * [Sephora Trends](#sephora-product-trends-analysis)
   * Excel / Google Sheets
-  * Tableau: View on Tableau [here](https://public.tableau.com/app/profile/su.zheng/vizzes)
+  * Tableau:
+    * [Coffee Shop Sales Dashboard] (https://public.tableau.com/views/CoffeeShopDashboard_17653055334850/CoffeeShopSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    * [UCI Online Retail II]
 * [Education](#education)
 * [Certificates](#certificates)
 * [Contacts](#contacts)

@@ -17,7 +17,7 @@ This is a repository to share data analytics projects, showcase skills, and trac
     * [Sephora Trends](#sephora-product-trends-analysis)
   * Excel / Google Sheets
   * Tableau:
-    * [Coffee Shop Sales Dashboard](https://public.tableau.com/views/CoffeeShopDashboard_17653055334850/CoffeeShopSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+    * [Coffee Shop Sales Dashboard](#coffee-shop-sales-dashboard)
     * [UCI Online Retail II]
 * [Education](#education)
 * [Certificates](#certificates)
@@ -54,6 +54,14 @@ Using a linear regression model, I was able to predict individual insurance cost
 - **Skills**: Joins, Aggregates, Case, Subqueries, CTEs, Layered Analysis
 
 This project displays important statistics and trends concisely through a set of dashboards followed by recommendations to inform marketing and merchandising decisions.
+
+### Coffee Shop Sales Dashboard
+
+**Dashboard:** [View on Tableau](https://public.tableau.com/views/CoffeeShopDashboard_17653055334850/CoffeeShopSales?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- **Goal**: Provides high-level and location-specific view of a coffee shop's sales performance, assisting stakeholders to quickly monitor key business metrics, compare store performance, and identify trends over time to support data-driven decisions.
+- **Tools**: Tableau, Excel
+- **Skills**: Data Visualization, Dashboard Design, Comparative Analysis, Translating Business Questions to Actionable Insights
 
 ## Education
 

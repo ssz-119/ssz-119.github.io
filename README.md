@@ -47,7 +47,7 @@ Using a linear regression model, I was able to predict individual insurance cost
 
 ### Sephora Product Trends Analysis 
 
-**Code:** [View on GitHub](https://github.com/ssz-19/sephora-trends)
+**Code:** [View on GitHub](https://github.com/ssz-119/sephora-trends)
 
 - **Goal**: Determine patterns in customer reviews and identify key attributes in popular products to understand what drives high demand to inform product and marketing strategies.
 - **Tools**: SQL, Python (pandas + matplotlib/seaborn)
